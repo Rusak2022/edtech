@@ -1,9 +1,14 @@
-product_id,product_name,product_type,base_price,subscription_period,conditions,business_line
-P003,"Корпоративная подписка ""Базовый""",subscription,35000,month,Доступ к 10 курсам из каталога,B2B
-P005,"Подписка ""Pro""",subscription,250000,year,Полный доступ ко всем курсам + премиум-поддержка,B2B
-P006,Доступ к библиотеке курсов,subscription,50000,quarter,"100+ курсов, обновление ежеквартально",B2B/B2C
-P007,Премиум-поддержка,service,75000,month,"SLA 2 часа, персональный менеджер",B2B
-P008,Индивидуальная разработка курса,service,150000,NULL,"Под ключ, срок 1-3 месяца",B2B
-P009,Аудит корпоративного обучения,service,95000,NULL,Разовый аудит с отчетом,B2B
-P010,Тестовый доступ,subscription,0,week,Для ознакомления,marketing
-P011,"Корпоративная подписка ""Lite""",subscription,30000,month,Доступ к 5 курсам из каталога,B2B
+product_id,product_name,product_type,price,subscription_period,business_line,course_id,conditions
+P001,Excel для бизнеса,course,150000,NULL,B2B/B2C,C001,Полный доступ к курсу
+P002,Управление проектами,course,200000,NULL,B2B,C002,Доступ 1 год
+P003,Лидерство,course,150000,NULL,B2B/B2C,C003,Полный доступ
+P004,Аналитика данных,course,250000,NULL,B2B,C004,Доступ 1 год
+P005,Переговоры,course,180000,NULL,B2B/B2C,C005,Полный доступ
+P006,Финансы для нефинансистов,course,220000,NULL,B2B,C006,Доступ 1 год
+P007,Python для начинающих,course,280000,NULL,B2C,C008,Полный доступ
+P008,"Корпоративная подписка ""Базовый""",subscription,250000,month,B2B,NULL,Доступ к 10 курсам из каталога
+P009,"Подписка ""Pro""",subscription,350000,year,B2B,NULL,Полный доступ ко всем курсам + премиум-поддержка
+P010,Доступ к библиотеке курсов,subscription,50000,quarter,B2B/B2C,NULL,"100+ курсов, обновление ежеквартально"
+P011,Премиум-поддержка,service,75000,month,B2B,NULL,"SLA 2 часа, персональный менеджер"
+P012,Индивидуальная разработка курса,service,150000,NULL,B2B,NULL,"Под ключ, срок 1-3 месяца"
+P013,"Корпоративная подписка ""Lite""",,200000,month,B2B,NULL,Доступ к 5 курсам
