@@ -1,22 +1,23 @@
 Перечень источников
-№	Имя файла	Система	Домен	Описание
 
-01_crm_companies.csv |	CRM |	Клиенты (справочник)	| Карточки компаний-клиентов
+№	Имя файла	Система	Описание
 
-02_crm_transactions.csv	| CRM |	Продажи |	Сделки и транзакции с клиентами
+01_crm_companies.csv |	CRM |	Карточки компаний-клиентов
 
-03_lms_events.csv	| LMS	| Обучение	| События пользователей в LMS
+02_crm_transactions.csv	| CRM |	Сделки и транзакции с клиентами
 
-04_lms_courses.csv	| LMS |	Продукты |	Каталог курсов
+03_lms_events.csv	| LMS |	События пользователей в LMS
 
-05_finance_payments.csv	| 1С |	Финансы |	Платежи и возвраты
+04_lms_courses.csv |	LMS |	Каталог курсов
 
-06_support_tickets.csv	| Zendesk	| Поддержка |	Обращения клиентов
+05_finance_payments.csv	| 1С |	Платежи и возвраты
 
-07_marketing_leads.csv	| Маркетинг |	Маркетинг |	Лиды и кампании
+06_support_tickets.csv	| Zendesk	| Обращения клиентов
 
-08_hr_employees.csv |	HR	| Персонал |	Сотрудники компании
+07_marketing_leads.csv	| Маркетинг |	Лиды и кампании
 
-09_products.csv |	Продукты |	Продукты	| Справочник продуктов
+08_hr_employees.csv |	HR |	Сотрудники компании
 
-10_info.txt	| - |	| - | Описание структуры корпорации
+09_products.csv	| Google Sheets |	Справочник продуктов
+
+10_org_structure.txt	| - |	Описание структуры корпорации и др. инфо 
