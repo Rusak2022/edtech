@@ -1,0 +1,9 @@
+course_id,course_name,category,difficulty,duration_hours,price
+C001,Excel для бизнеса,Office,beginner,36,150000
+C002,Управление проектами,Management,intermediate,72,250000
+C003,Лидерство,Soft skills,advanced,36,20000
+C004,Аналитика данных,Data Science,intermediate,144,350000
+C005,Переговоры,Soft skills,intermediate,36,180000
+C006,Финансы для нефинансистов,Finance,beginner,36,220000
+C007,Продуктовая аналитика,Data Science,advanced,144,300000
+C008,Python для начинающих,Programming,beginner,72,280000

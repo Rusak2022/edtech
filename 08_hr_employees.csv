@@ -1,0 +1,18 @@
+employee_id,full_name,department,position,hire_date,manager_id,status,email
+E001,Иванов Иван Иванович,Sales,Менеджер по продажам,2022-03-15,E010,active,ivanov@example.com
+E002,Петрова Петуния Петровна,Sales,Старший менеджер,2021-08-20,E010,active,petrova@example.com
+E003,Смирнов Сергей Сергеевич,Sales,Менеджер по продажам,2023-01-10,E010,active,smirnov@example.com
+E004,Кузнецова Кристина Константиновна,Product,Продукт-менеджер,2022-05-25,E011,active,kuznetsova@example.com
+E005,Павлов Павел Павлович,Development,Разработчик,2021-11-12,E012,active,popov@example.com
+E006,Васильева Василиса Васильевна,Support,Руководитель поддержки,2022-09-05,E013,active,vasileva@example.com
+E007,Николаев Николай Николаевич,Support,Специалист поддержки,2023-06-20,E006,active,nikolaev@example.com
+E008,Попова Полина Прасковьевна,Marketing,Маркетолог,2023-02-28,E014,active,pavlova@example.com
+E009,Соколов Сидор Сидорович,Finance,Финансовый аналитик,2022-04-10,E015,active,sokolov@example.com
+E010,Козлов К.К.,Sales,Директор по продажам,2020-01-15,NULL,active,kozlov@example.com
+E011,Новиков Н.Н.,Product,Директор по продукту,2020-06-01,NULL,active,novikov@example.com
+E012,Морозов М.М.,Development,Технический директор,2019-11-20,NULL,active,morozov@example.com
+E013,Волкова В.В.,Support,Директор по поддержке,2021-03-10,NULL,active,volkova@exampl.com
+E014,Захарова ЕЗинаида Захаровна,Marketing,Директор по маркетингу,2021-09-15,NULL,active,zaharova@example.com
+E015,Григорьев Григорий Григорьевич,Finance,Финансовый директор,2020-08-01,NULL,active,grigoriev@example.com
+E016,Иванов Иван Иванович,Sales,Менеджер по продажам,2024-01-10,E010,active,ivanov2@example.com
+E017,,HR,Специалист по персоналу,2023-09-01,NULL,active,hr@example.com

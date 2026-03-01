@@ -1,0 +1,15 @@
+lead_id,company_name,contact_person,source,campaign,lead_date,cost,status
+L001,"ООО ""Ромашка""",Иванов И.И.,website,brand_campaign,2025-01-10,0,converted
+L002,"АО ""ТехноСервис""",Петров П.П.,conference,edtech_forum,2025-01-15,35000,converted
+L003,ИП Сидоров,Сидоров С.С.,referral,partner_ivanov,2025-01-20,0,converted
+L004,"ООО ""Айти-Решения""",Николаев Н.Н.,website,seo_2025,2025-02-05,0,converted
+L005,"ООО ""Торговый Дом""",Григорьев Г.Г.,email,feb_newsletter,2025-02-18,5000,converted
+L006,"ООО ""Бизнес-Консалт""",Васильев В.В.,website,brand_campaign,2025-02-20,0,converted
+L007,"АО ""ФинансГрупп""",Михайлов М.М.,linkedin,b2b_targeting,2025-02-25,15000,converted
+L008,"ООО ""ПромТех""",Павлов П.П.,conference,edtech_forum,2025-02-28,35000,converted
+L009,"ООО ""МедиаХолдинг""",Соколов С.С.,website,seo_2025,2025-03-01,0,converted
+L010,"ООО ""Трейд""",Кузнецов К.К.,referral,partner_petrova,2025-03-05,0,new
+L011,"ООО ""Новые технологии""",Новиков Н.Н.,website,seo_2025,2025-03-10,0,new
+L012,"ЗАО ""ИнвестПроект""",Зайцев З.З.,linkedin,b2b_targeting,2025-03-12,15000,new
+L013,"ООО ""Ромашка""",,website,brand_campaign,2025-03-14,0,new
+L014,Неизвестная компания,Тестов Т.Т.,test,test_campaign,2025-03-15,-1000,test

@@ -1,0 +1,13 @@
+ticket_id,company_id,created_date,closed_date,status,priority,category,satisfaction_score
+T001,1001,2025-02-12 9:30:00,2025-02-12 15:45:00,closed,medium,technical,4
+T002,1001,2025-02-25 11:20:00,2025-02-25 16:30:00,closed,low,billing,5
+T003,1002,2025-02-18 14:10:00,2025-02-19 10:20:00,closed,high,technical,3
+T004,1003,2025-02-22 9:45:00,2025-02-22 13:15:00,closed,medium,account,NULL
+T005,1005,2025-01-25 16:20:00,2025-01-26 11:30:00,closed,high,technical,2
+T006,1007,2025-03-05 10:10:00,2025-03-05 17:45:00,closed,medium,billing,4
+T007,1009,2025-03-08 14:30:00,2025-03-09 9:15:00,closed,medium,technical,5
+T008,1011,2025-03-10 11:20:00,2025-03-10 16:40:00,closed,low,general,4
+T009,1013,2025-03-12 13:30:00,NULL,open,low,general,NULL
+T010,1001,2025-03-14 9:15:00,NULL,open,medium,technical,NULL
+T011,1018,2025-03-15 11:30:00,2025-03-16 14:20:00,closed,medium,technical,5
+T012,1002,2025-03-16,2025-03-16,closed,low,billing,4
