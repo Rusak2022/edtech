@@ -1,15 +1,51 @@
 lead_id,company_name,contact_person,source,campaign,lead_date,cost,status
-L001,"ООО ""Ромашка""",Иванов И.И.,website,brand_campaign,2025-01-10,0,converted
-L002,"АО ""ТехноСервис""",Петров П.П.,conference,edtech_forum,2025-01-15,35000,converted
-L003,ИП Сидоров,Сидоров С.С.,referral,partner_ivanov,2025-01-20,0,converted
-L004,"ООО ""Айти-Решения""",Николаев Н.Н.,website,seo_2025,2025-02-05,0,converted
-L005,"ООО ""Торговый Дом""",Григорьев Г.Г.,email,feb_newsletter,2025-02-18,5000,converted
-L006,"ООО ""Бизнес-Консалт""",Васильев В.В.,website,brand_campaign,2025-02-20,0,converted
-L007,"АО ""ФинансГрупп""",Михайлов М.М.,linkedin,b2b_targeting,2025-02-25,15000,converted
-L008,"ООО ""ПромТех""",Павлов П.П.,conference,edtech_forum,2025-02-28,35000,converted
-L009,"ООО ""МедиаХолдинг""",Соколов С.С.,website,seo_2025,2025-03-01,0,converted
-L010,"ООО ""Трейд""",Кузнецов К.К.,referral,partner_petrova,2025-03-05,0,new
-L011,"ООО ""Новые технологии""",Новиков Н.Н.,website,seo_2025,2025-03-10,0,new
-L012,"ЗАО ""ИнвестПроект""",Зайцев З.З.,linkedin,b2b_targeting,2025-03-12,15000,new
-L013,"ООО ""Ромашка""",,website,brand_campaign,2025-03-14,0,new
-L014,Неизвестная компания,Тестов Т.Т.,test,test_campaign,2025-03-15,-1000,test
+L001,"ООО ""Ромашка""",Иванов И.И.,website,brand_campaign,2024-06-10,0,converted
+L002,"АО ""ТехноСервис""",Петров П.П.,conference,edtech_forum,2024-06-15,35000,converted
+L003,ИП Сидоров,Сидоров С.С.,referral,partner_ivanov,2024-06-20,0,converted
+L004,"ООО ""Айти-Решения""",Николаев Н.Н.,website,seo_2024,2024-07-05,0,converted
+L005,"ООО ""Торговый Дом""",Григорьев Г.Г.,email,july_newsletter,2024-07-18,5000,converted
+L006,"ООО ""Бизнес-Консалт""",Васильев В.В.,website,brand_campaign,2024-07-20,0,converted
+L007,"АО ""ФинансГрупп""",Михайлов М.М.,linkedin,b2b_targeting,2024-07-25,15000,converted
+L008,"ООО ""ПромТех""",Павлов П.П.,conference,edtech_forum,2024-08-02,35000,converted
+L009,"ООО ""МедиаХолдинг""",Соколов С.С.,website,seo_2024,2024-08-10,0,converted
+L010,"ООО ""Новые технологии""",Новиков Н.Н.,website,seo_2024,2024-08-15,0,new
+L011,"ЗАО ""ИнвестПроект""",Зайцев З.З.,linkedin,b2b_targeting,2024-08-20,15000,new
+L012,"ООО ""Ромашка""",,website,brand_campaign,2024-09-05,0,new
+L013,"ООО ""ТехноСтрой""",Строев С.С.,conference,build_forum,2024-09-10,35000,converted
+L014,"АО ""ИТ-Холдинг""",Айтов А.А.,website,seo_2024,2024-09-15,0,converted
+L015,"ООО ""КонсалтПлюс""",Консультантов К.К.,referral,partner_petrova,2024-09-22,0,new
+L016,ИП Иванов,Иванов И.И.,email,september_newsletter,2024-09-28,5000,converted
+L017,"ООО ""РитейлГрупп""",Ритейлов Р.Р.,linkedin,b2b_targeting,2024-10-05,15000,converted
+L018,"АО ""Логистик""",Логов Л.Л.,conference,logistics_forum,2024-10-12,35000,new
+L019,"ООО ""ФинТех""",Финансов Ф.Ф.,website,seo_2024,2024-10-18,0,converted
+L020,"ООО ""МаркетПро""",Маркетов М.М.,email,october_newsletter,2024-10-25,5000,converted
+L021,"ООО ""Энергия""",Энергов Э.Э.,conference,energy_forum,2024-11-02,35000,new
+L022,"АО ""ПромИнвест""",Промов П.П.,linkedin,b2b_targeting,2024-11-08,15000,converted
+L023,"ООО ""СтройКом""",Строев К.К.,website,seo_2024,2024-11-15,0,converted
+L024,ИП Петров,Петров П.П.,referral,partner_sidorov,2024-11-20,0,new
+L025,"ООО ""Трейд""",Торгов Т.Т.,website,brand_campaign,2024-11-25,0,converted
+L026,"ООО ""Альфа""",Альфов А.А.,email,november_newsletter,2024-12-02,5000,new
+L027,"ЗАО ""Бета""",Бетов Б.Б.,conference,dec_forum,2024-12-08,35000,converted
+L028,"ООО ""Гамма""",Гаммов Г.Г.,linkedin,b2b_targeting,2024-12-15,15000,converted
+L029,"АО ""Дельта""",Дельтов Д.Д.,website,seo_2024,2024-12-20,0,new
+L030,"ООО ""Омега""",Омегов О.О.,referral,partner_ivanova,2024-12-25,0,converted
+L031,"ООО ""Ромашка""",Иванов И.И.,website,brand_campaign,2025-01-10,0,converted
+L032,"АО ""ТехноСервис""",Петров П.П.,conference,edtech_forum,2025-01-15,35000,converted
+L033,ИП Сидоров,Сидоров С.С.,referral,partner_ivanov,2025-01-20,0,converted
+L034,"ООО ""Айти-Решения""",Николаев Н.Н.,website,seo_2025,2025-02-05,0,converted
+L035,"ООО ""Торговый Дом""",Григорьев Г.Г.,email,feb_newsletter,2025-02-18,5000,converted
+L036,"ООО ""Бизнес-Консалт""",Васильев В.В.,website,brand_campaign,2025-02-20,0,converted
+L037,"АО ""ФинансГрупп""",Михайлов М.М.,linkedin,b2b_targeting,2025-02-25,15000,converted
+L038,"ООО ""ПромТех""",Павлов П.П.,conference,edtech_forum,2025-02-28,35000,converted
+L039,"ООО ""МедиаХолдинг""",Соколов С.С.,website,seo_2025,2025-03-01,0,converted
+L040,"ООО ""Трейд""",Кузнецов К.К.,referral,partner_petrova,2025-03-05,0,new
+L041,"ООО ""Новые технологии""",Новиков Н.Н.,website,seo_2025,2025-03-10,0,new
+L042,"ЗАО ""ИнвестПроект""",Зайцев З.З.,linkedin,b2b_targeting,2025-03-12,15000,new
+L043,"ООО ""Ромашка""",,website,brand_campaign,2025-03-14,0,new
+L044,"ООО ""ТехноКом""",Техников Т.Т.,conference,tech_forum,2024-04-15,35000,converted
+L045,"АО ""МедиаГрупп""",Медиа М.М.,website,seo_2024,2024-04-22,0,converted
+L046,"ООО ""Консалт""",Консулов К.К.,linkedin,b2b_targeting,2024-05-05,15000,converted
+L047,ИП Смирнов,Смирнов С.С.,referral,partner_egorov,2024-05-12,0,new
+L048,"ООО ""СтройГрупп""",Строитель С.С.,email,may_newsletter,2024-05-18,5000,converted
+L049,"АО ""ЭнергоПром""",Энергетик Э.Э.,conference,energy_forum,2024-05-25,35000,converted
+L050,"ООО ""ФинГрупп""",Финансист Ф.Ф.,website,seo_2024,2024-06-01,0,new
